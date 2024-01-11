@@ -6,3 +6,4 @@ git config --global user.email "22soft1057@isik.edu.tr"
 Step 3:
 git config --global core.editor "Txt"
 b)
+hwk4/homework4.txt
