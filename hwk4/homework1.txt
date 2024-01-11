@@ -1,0 +1,47 @@
+a)
+
+git --global user.name "Ömer Faruk Cüvelek"
+
+git --global user.name
+
+Ömer Faruk Cüvelek
+
+git config --global user.email "22soft1057@isik.edu.tr"
+
+git config --global user.email
+
+22soft1057@isik.edu.tr
+
+git config --global core.editor "Txt"
+
+git config --global core.editor
+
+Txt
+
+b)
+cd desktop
+git clone https://github.com/hotprospect/Hw04.git
+git ls-files
+c)
+
+
+d)
+echo asd.txt > .gitignore
+e)
+git branch feature-1
+git checkout feature-1
+Switched to branch 'feature-1'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
